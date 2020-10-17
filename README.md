@@ -11,4 +11,5 @@ Tensorflow sendiri adalah sebuah library open-source untuk machine inteligence y
 <p>Saya juga tertarik belajar mengenai Google Data Studio, karena menurut saya service yang diberikan Data Studio sangat mudah dipelajari, dan untuk kasus tertentu mungkin lebih baik menggunakan Data Studio daripada harus mengoding dengan python</p>
 
 ### link : 
+https://datastudio.google.com/s/q45XqI6m4Po
 
