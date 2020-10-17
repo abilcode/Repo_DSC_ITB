@@ -1,9 +1,10 @@
 # Repo_DSC_ITB
 
 ## Identitas
-Nama : Muhammad Nabil Fadhlurrahman
-Nim : 10119065
-
+<ul>
+<li>Nama : Muhammad Nabil Fadhlurrahman</li>
+<li>Nim : 10119065</li>
+</ul>
 ### Eksplorasi Produk Google
 <p>Saya tertarik dengan Machine Learning dan Data Science. Karena itu, saya ingin mengeksplor lebih lanjut tentang Tensorflow.
 Tensorflow sendiri adalah sebuah library open-source untuk machine inteligence yang disediakan google</p>
